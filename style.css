@@ -1,0 +1,23 @@
+.recipe-1 {
+    font: sans-serif;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.recipe-2 {
+    font: sans-serif;
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.recipe-3 {
+    font: sans-serif;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
