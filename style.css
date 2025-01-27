@@ -1,4 +1,10 @@
+li:not(:last-child){
+    margin-bottom: 16px;
+}
+
 .recipe-1 {
+    padding: 8px 8px;
+    text-align: center;
     font: sans-serif;
     background-color: green;
     color: white;
@@ -7,6 +13,8 @@
 }
 
 .recipe-2 {
+    padding: 8px 8px;
+    text-align: center;
     font: sans-serif;
     background-color: brown;
     color: white;
@@ -15,6 +23,8 @@
 }
 
 .recipe-3 {
+    padding: 8px 8px;
+    text-align: center;
     font: sans-serif;
     background-color: red;
     color: white;
